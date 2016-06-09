@@ -1,0 +1,10 @@
+switch(true) {
+	case 1 : 
+		a = 9; 
+		break;
+	case 2 : 
+		a = 0; 
+		break;
+	default : 
+		a = 1; 
+}
